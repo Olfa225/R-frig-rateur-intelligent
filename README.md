@@ -1,1 +1,1 @@
-# R-frig-rateur-intelligent
+Development of a smart refrigerator integrating an object detection system, enabling data transmission to a graphical interface. This interface provides users with real-time visualization of the contents, temperature, and door status.
