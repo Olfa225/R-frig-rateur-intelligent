@@ -1,4 +1,4 @@
-Smart Fridge
+
 Ce projet de "Smart Fridge" combine des technologies embarquées, de l'intelligence artificielle et du développement d'interface utilisateur pour créer un réfrigérateur intelligent capable de détecter et de surveiller son contenu, d'assurer la sécurité de l'accès et d'informer l'utilisateur en temps réel.
 
 Fonctionnalités principales
